@@ -17,7 +17,6 @@
 Клонировать репозиторий:
 ```
 git clone https://github.com/yourusername/training_system.git
-cd training_system
 ```
 Создать виртуальное окружение и активировать его:
 ```
